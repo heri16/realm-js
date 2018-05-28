@@ -96,9 +96,6 @@
     "shelljs": "^0.7.7",
     "shx": "^0.2.2"
   },
-  "peerDependencies": {
-    "prop-types": "^15.5.10"
-  },
   "rnpm": {
     "ios": {
       "project": "react-native/ios/RealmReact.xcodeproj",
